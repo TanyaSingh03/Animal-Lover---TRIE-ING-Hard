@@ -1,4 +1,4 @@
-# TRIE-ING-Hard
+# Animal Lover
 # Team Name: TRIE-ING Hard
 # Team Members:
 1. Sagar Sakhalkar
